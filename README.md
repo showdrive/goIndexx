@@ -1,5 +1,3 @@
-<p align="center"><img src="images/ss.png"></p>
-
 <b>goIndex<b>
 
 ### Quick Deployment
