@@ -5479,34 +5479,34 @@
   );
 });
 document.write(
-  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe@master/css/mdui_v2.min.css" asyc>'
+  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/showdrive/goIndex@master/css/mdui_v2.min.css" asyc>'
 );
 document.write(
-  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe@master/css/nexmoe_v2.min.css" async>'
+  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/showdrive/goIndex@master/css/nexmoe_v2.min.css" async>'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe@master/js/mdui.min.js"></script async>'
+  '<script src="//cdn.jsdelivr.net/gh/showdrive/goIndex@master/js/mdui.min.js"></script async>'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe@master/js/flv.min.js"></script async>'
+  '<script src="//cdn.jsdelivr.net/gh/showdrive/goIndex@master/js/flv.min.js"></script async>'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe@master/js/DPlayer.min.js"></script async>'
+  '<script src="//cdn.jsdelivr.net/gh/showdrive/goIndex@master/js/DPlayer.min.js"></script async>'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe@master/js/markdown-it.min.js"></script async>'
+  '<script src="//cdn.jsdelivr.net/gh/showdrive/goIndex@master/js/markdown-it.min.js"></script async>'
 );
 document.write(
   "<style>.mdui-appbar .mdui-toolbar{height:56px;font-size:1pc}.mdui-toolbar>i{opacity:.5}.mdui-toolbar>i{padding:0}.mdui-toolbar>a:hover,a.active,a.mdui-typo-headline{opacity:1}.mdui-container{max-width:980px}.mdui-list-item{transition:none}.mdui-list>.th{background-color:initial}.mdui-list-item>a{width:100%;line-height:3pc}.mdui-list-item{margin:2px 0;padding:0}.mdui-toolbar>a:last-child{opacity:1}@media screen and (max-width:980px){.mdui-list-item .mdui-text-right{display:none}.mdui-container{width:100%!important;margin:0}}</style>"
 );
 if (UI.theme == "material-dark") {
   document.write(
-    `<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe@master/css/material-dark.min.css" async>
+    `<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/showdrive/goIndex@master/css/material-dark.min.css" async>
     <meta name="theme-color" content="#121212">`
   );
 } else if (UI.theme == "dark") {
   document.write(
-    `<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe@master/css/dark.min.css" async>
+    `<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/showdrive/goIndex@master/css/dark.min.css" async>
     <meta name="theme-color" content="#0D0D0D">`
   );
 }
@@ -6089,8 +6089,8 @@ function file_code(path) {
 </div>
 <a href="${href}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
 
-<script src="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe/js/ace.js"></script>
-<script src="//cdn.jsdelivr.net/gh/Genos2000/goIndex-theme-nexmoe/js/ext-language_tools.js"></script>
+<script src="//cdn.jsdelivr.net/gh/showdrive/goIndex/js/ace.js"></script>
+<script src="//cdn.jsdelivr.net/gh/showdrive/goIndex/js/ext-language_tools.js"></script>
 	`;
   $("#content").html(content);
   $.get(path, function (data) {
