@@ -5523,8 +5523,8 @@ function init() {
         UI.disable_navicon == true ? "none" : "block"
       }">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="" target="_blank">home</a></li>
-					<li class="menu_li"><a href="t.me/ericazziz" target="_blank">owner</a></li>
+					<li class="menu_li"><a href="" target="_blank">Home</a></li>
+					<li class="menu_li"><a href="https://t.me/ericazziz" target="_blank">Owner</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
