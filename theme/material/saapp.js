@@ -6121,6 +6121,9 @@ function copyToClipboard(str) {
 function file_video(path) {
   const url = window.location.origin + path;
   let player_items = [
+    { text: "XPlayer", href: `intent:{$url}#Intent;package=video.player.videoplayer;end` },
+    { text: "VLC", href: `vlc://${url}` },
+    { text: "PotPlayer", href: `potplayer://${url}` },
   ]
     .map(
       (it) =>
