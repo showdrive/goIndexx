@@ -1,15 +1,8 @@
 <p align="center"><img src="images/ss.png"></p>
 
-# goIndex-theme-nexmoe
+<b>goIndex<b>
 
-Based on panta js, refer to OneIndex's theme nexmoe, magic change beautification.
-
-App-v3.js is based on yanzai's js beautification, supports features such as multi-disk, search, pagination and call-to-external player, plus DPlayer playback.
-
-This is just a English translation of the theme by @5MayRain : [Repo](https://github.com/5MayRain/goIndex-theme-nexmoe) </br>
-All credits goes to him/her.
-
-### How to Use
+### Quick Deployment
 1. Open https://install.kenci.workers.dev
 
 2. Complete authorisation and input all the details and generate code
@@ -18,12 +11,6 @@ All credits goes to him/her.
 
 4. Deploy this index.js code to Cloudflare Workers
 
-### Extra Options
-``` js
-const uiConfig = {
-  .......
-  "avatar": "https://i.ibb.co/jW0TDZH/image.png",  // Changes the avatar image in the navbar
-  "disable_navicon": true // Disables useless nav menu in navbar
-  .......
-};
-```
+### Credits:
+GDindex by: @maple3142
+Nexmoe theme by: @5MayRain , Translated by @genos2000
