@@ -42,7 +42,7 @@ const uiConfig = {
   "accent_color": "blue",
   "fluid_navigation_bar": true,
   "avatar": "https://i.imgur.com/Fz8biC3.jpg",
-  "disable_navicon": true
+  "disable_navicon": false
 };
 
 /**
