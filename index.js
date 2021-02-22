@@ -37,11 +37,11 @@ const authConfig = {
  * web ui 设置
  */
 const uiConfig = {
-  "theme": "default", //default, material-dark, dark 
+  "theme": "dark", //default, material-dark, dark 
   "main_color": "blue",
   "accent_color": "blue",
   "fluid_navigation_bar": true,
-  "avatar": "https://i.ibb.co/DwMwdFv/photo-2020-05-25-22-58-28.jpg",
+  "avatar": "https://i.imgur.com/Fz8biC3.jpg",
   "disable_navicon": true
 };
 
