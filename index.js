@@ -20,14 +20,10 @@ const authConfig = {
  **/
   "roots": [
     {
-      id: "root", //you can use folderid other than root but then search wont work
-      name: "eg1",
-    },
-    {
-        id: "drive_id",
-        name: "eg2",
-        user: 'user1',
-        pass: "111",
+        id: "root",
+        name: "",
+        user: '',
+        pass: "",
       }  
   ],
 
