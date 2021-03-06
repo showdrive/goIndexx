@@ -1,5 +1,5 @@
 const authConfig = {
-  "siteName": "Drive Index", 
+  "siteName": "SM", 
   "siteIcon": "",
   "version": "_4.28",
   "client_id": "",
