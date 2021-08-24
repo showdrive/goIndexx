@@ -1,9 +1,9 @@
 const authConfig = {
-  "siteName": "SM", 
-  "siteIcon": "",
+  "siteName": "SM", // Index Title
+  "siteIcon": "https://raw.githubusercontent.com/showdrive/goIndex/master/images/favicon.ico", // Index Favicon
   "version": "_4.28",
-  "client_id": "",
-  "client_secret": "",
+  "client_id": "", // User your OWN
+  "client_secret": "", // Use your OWN
   "refresh_token": "", // Authorization token
 /**
  * Set up multiple Drives to be displayed; add multiples by format
@@ -20,10 +20,10 @@ const authConfig = {
  **/
   "roots": [
     {
-        id: "root",
+        id: "root", // Drive Folder Id/ Shared Drive ID
         name: "",
-        user: '',
-        pass: "",
+        user: '', // Username for accessing Index
+        pass: "", // Username for accessing Password
       }  
   ],
 
