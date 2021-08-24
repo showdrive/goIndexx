@@ -38,8 +38,8 @@ const authConfig = {
  */
 const uiConfig = {
   "theme": "dark", //default, material-dark, dark 
-  "main_color": "blue",
-  "accent_color": "blue",
+  "main_color": "green",
+  "accent_color": "green",
   "fluid_navigation_bar": true,
   "avatar": "https://i.imgur.com/Fz8biC3.jpg",
   "disable_navicon": false
