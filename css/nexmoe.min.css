@@ -153,6 +153,10 @@
     border: 1px solid #eee;
 }
 
+.dummyclass {
+    display: block;
+}
+
 @media screen and (max-width: 980px) {
 	.mdui-toolbar > a:last-child, .mdui-toolbar > i:first-child {
 		display: block;
