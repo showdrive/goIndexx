@@ -5510,6 +5510,11 @@ if (UI.theme == "material-dark") {
     <meta name="theme-color" content="#0D0D0D">`
   );
 }
+if (UI.hide_actions_tab) {
+  document.write(
+    "<style>.dummyclass{display: none!important}</style>"
+  );
+}
 function init() {
   document.siteName = $("title").html();
   $("body").addClass(
