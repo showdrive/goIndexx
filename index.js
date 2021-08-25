@@ -1,7 +1,7 @@
 const authConfig = {
   "siteName": "SM", // Index Title
   "siteIcon": "https://raw.githubusercontent.com/showdrive/goIndex/master/images/favicon.ico", // Index Favicon
-  "version": "_4.28",
+  "version": "4.28",
   "client_id": "", // User your OWN
   "client_secret": "", // Use your OWN
   "refresh_token": "", // Authorization token
