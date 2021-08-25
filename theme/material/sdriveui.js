@@ -5529,7 +5529,6 @@ function init() {
       }">
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="" target="_blank">Home</a></li>
-					<li class="menu_li"><a href="http://t.me/ericazziz_bot" target="_blank">Owner</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
