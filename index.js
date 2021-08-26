@@ -41,7 +41,7 @@ const uiConfig = {
   "main_color": "green",
   "accent_color": "green",
   "fluid_navigation_bar": true,
-  "avatar": "https://i.imgur.com/Fz8biC3.jpg",
+  "avatar": "https://raw.githubusercontent.com/showdrive/goIndex/master/images/avatar.jpg",
   "disable_navicon": false
 };
 
